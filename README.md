@@ -1,3 +1,3 @@
-# This is my first repo in github for learning about github.
+#This is my first GitHub repository for learning about GitHub.
 <br>
-i just learn html and css along with framework bootstrap and making two project - amazon clone and spotify clone and basic side navbar having sliding funcationality.
+I have just learned HTML and CSS, along with the Bootstrap framework. I have completed two projects: an Amazon clone and a Spotify clone. Additionally, I have created a separate project featuring a basic side navbar with sliding functionality."
